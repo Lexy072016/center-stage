@@ -1,3 +1,6 @@
 .header {
-  background-color: darkslateblue;
+  position: relative;
+}
+
+.header__title {
 }
