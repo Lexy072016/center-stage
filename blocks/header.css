@@ -3,4 +3,24 @@
 }
 
 .header__title {
+  padding: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.header__span-accent {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  font-size: large;
+}
+
+.header__description {
+  padding: 120px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  font-family: "Inter", serif;
+  color: white;
 }
